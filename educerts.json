@@ -9,8 +9,6 @@
     },
     "dob": "schema:Date",
     "fullName": "schema:name",
-    "studentID": "schema:identifier",
-    "email": "schema:email",
-    "contactNumber": "schema:telephone"
+    "gender": "schema:gender",
   }
 }
