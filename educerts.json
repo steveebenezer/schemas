@@ -9,6 +9,6 @@
     },
     "dob": "schema:Date",
     "fullName": "schema:name",
-    "gender": "schema:gender",
+    "gender": "schema:gender"
   }
 }
