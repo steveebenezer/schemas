@@ -7,8 +7,8 @@
     "EducationalCertificate": {
       "@id": "https://steveebenezer.github.io/schemas/educerts.json"
     },
-    "dob": "schema:Date",
     "fullName": "schema:name",
+    "dob": "schema:Date",
     "gender": "schema:gender"
   }
 }
