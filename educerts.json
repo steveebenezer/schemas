@@ -2,13 +2,26 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
+    "id": "@id",
     "type": "@type",
     "schema": "https://schema.org/",
     "EducationalCertificate": {
-      "@id": "https://steveebenezer.github.io/schemas/educerts.json#EducationalCertificate"
+        "@id": "https://steveebenezer.github.io/schemas/educerts.json#EducationalCertificate",
+        "@context": {
+            "id": "@id",
+            "@version": 1.1,
+            "@protected": true
+        }
     },
-    "fullName": "schema:name",
-    "dob": "schema:Date",
-    "gender": "schema:gender"
+    "Person": {
+        "@id": "schema:Person",
+        "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "fullName": "schema:name",
+            "dob": "schema:name",
+            "gender": "schema:name"
+        }
+    }
   }
 }
