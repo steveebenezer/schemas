@@ -2,7 +2,7 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
-    "type": "@type",
+    "type": "schema:Person",
     "schema": "https://schema.org/",
     "EducationalCertificate": {
       "@id": "https://steveebenezer.github.io/schemas/educerts.json#EducationalCertificate"
