@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "EducationalCertificate": {
-      "@id": "https://steveebenezer.github.io/schemas/educerts.json"
+      "@id": "https://steveebenezer.github.io/schemas/educerts.json#EducationalCertificate"
     },
     "fullName": "schema:name",
     "dob": "schema:Date",
