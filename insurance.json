@@ -1,0 +1,50 @@
+{
+    "credential": {
+        "id": "did:rcw:db4c5518-e48b-474b-8c75-7ab54ac65542",
+        "type": [
+            "VerifiableCredential",
+            "InsuranceCredential"
+        ],
+        "proof": {
+            "type": "Ed25519Signature2020",
+            "created": "2024-08-22T10:05:41Z",
+            "proofValue": "z452sBV5ikavidqx4DpDmuSdPbtRwCmj4S3xN1hHdRk9P1oNtV96RhN6yfb3hoYZM7gEfhSCkaXDRCdbkNhaTXhum",
+            "proofPurpose": "assertionMethod",
+            "verificationMethod": "did:web:example.com:identifier:d84f6ac7-aedf-4fd2-aadc-2033d69729da#key-0"
+        },
+        "issuer": "did:web:example.com:identifier:d84f6ac7-aedf-4fd2-aadc-2033d69729da",
+        "@context": [
+            "https://www.w3.org/2018/credentials/v1",
+            "https://holashchand.github.io/test_project/insurance-context.json",
+            "https://w3id.org/security/suites/ed25519-2020/v1"
+        ],
+        "issuanceDate": "2024-08-22T10:05:41.014Z",
+        "expirationDate": "null",
+        "credentialSubject": {
+            "id": "did:web:example.com:identifier:d84f6ac7-aedf-4fd2-aadc-2033d69729da",
+            "dob": "1968-10-24",
+            "type": "InsuranceCredential",
+            "email": "abhishek@gmail.com",
+            "gender": "Male",
+            "mobile": "0123456789",
+            "benefits": [
+                "Critical Surgery",
+                "Full body checkup"
+            ],
+            "fullName": "Abhishek Gangwar",
+            "policyName": "Start Insurance Gold Premium",
+            "policyNumber": "1234567",
+            "policyIssuedOn": "2023-04-20T20:48:17.684Z",
+            "policyExpiresOn": "2033-04-20T20:48:17.684Z"
+        }
+    },
+    "credentialSchemaId": "did:schema:ccd9be85-c979-4c26-a83f-0d6c152a238a",
+    "createdAt": "2024-08-22T10:05:41.469Z",
+    "updatedAt": "2024-08-22T10:05:41.469Z",
+    "createdBy": "",
+    "updatedBy": "",
+    "tags": [
+        "Abhishek Gangwar",
+        "1968-10-24"
+    ]
+}
