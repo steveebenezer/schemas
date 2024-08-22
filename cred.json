@@ -1,0 +1,40 @@
+{
+    "credential": {
+        "id": "did:rcw:66ea80be-392b-448b-ab8c-78b92d401467",
+        "type": [
+            "VerifiableCredential",
+            "EducationalCertificate"
+        ],
+        "proof": {
+            "type": "Ed25519Signature2020",
+            "created": "2024-08-21T11:44:14Z",
+            "proofValue": "z2Vbkq4RWQ2Ux8G7bpemwN7oT1i8rn7y1ni64Bu14xvqNcS7aWFT7F84uX9SnKSYyriqcoyjzdzdgQ3exDd75Tup5",
+            "proofPurpose": "assertionMethod",
+            "verificationMethod": "did:web:educerts.com:identifier:1505e33b-e550-44d5-8b73-b36a96ee7335#key-0"
+        },
+        "issuer": "did:web:educerts.com:identifier:1505e33b-e550-44d5-8b73-b36a96ee7335",
+        "@context": [
+            "https://www.w3.org/2018/credentials/v1",
+            "https://steveebenezer.github.io/schemas/educerts.json",
+            "https://w3id.org/security/suites/ed25519-2020/v1"
+        ],
+        "issuanceDate": "2024-08-21T11:44:13.934Z",
+        "expirationDate": "null",
+        "credentialSubject": {
+            "id": "did:web:educerts.com:identifier:1505e33b-e550-44d5-8b73-b36a96ee7335",
+            "dob": "1993-10-24",
+            "type": "Person",
+            "gender": "Male",
+            "fullName": "Steve Paul"
+        }
+    },
+    "credentialSchemaId": "did:schema:e6a317ed-f852-47a6-9625-ae5c3c3f6acd",
+    "createdAt": "2024-08-21T11:44:14.858Z",
+    "updatedAt": "2024-08-21T11:44:14.858Z",
+    "createdBy": "",
+    "updatedBy": "",
+    "tags": [
+        "Steve Paul",
+        "1993-10-24"
+    ]
+}
