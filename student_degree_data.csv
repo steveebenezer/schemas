@@ -1,0 +1,8 @@
+id,fullName,contactNumber,dateOfBirth,degreeTitle,degreeType,universityName,graduationYear,major,minor,cgpa,nationality,email,studentId
+0NXNNpBYIZ8xb_rOweV5gO24RMdnVphZ_iCvk84LVpU,John Doe,9876543210,1980-05-15,Bachelor of Science,Undergraduate,University A,2002,Agriculture,Economics,3.5,American,john.doe@example.com,12345678
+8267411571,Mary Smith,8765432109,1975-08-22,High School,Undergraduate,University B,1993,Arts,History,3.0,British,mary.smith@example.com,98765432
+4567538770,Raj Patel,7654321098,1990-03-10,Primary Education,Undergraduate,School of Learning,2011,Science,Mathematics,2.8,Indian,raj.patel@example.com,11223344
+4567538771,Sarah Johnson,6543210987,1985-11-30,Diploma,Undergraduate,Institute of Technology,2007,Engineering,Physics,3.2,Canadian,sarah.johnson@example.com,22334455
+2089250384,Kumar Swamy,5432109876,1970-04-18,No Formal Education,Undergraduate,Learning Institute,1990,Arts,English,2.5,Indian,kumar.swamy@example.com,33445566
+5614273165,Li Wei,4321098765,1988-09-25,Master of Arts,Postgraduate,University C,2014,Linguistics,Philosophy,3.9,Chinese,li.wei@example.com,44556677
+8267411577,Arun Kumar,9876543211,1987-06-20,Diploma,Undergraduate,Institute of Engineering,2009,Mechanical Engineering,Mathematics,3.1,Indian,arun.kumar@example.com,55667788
